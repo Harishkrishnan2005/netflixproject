@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.backgroundimage {
+    background-image: url("https://wallpapercave.com/wp/wp6889129.jpg");
+    height: 100vh;
+    width: 100%;
+}
+
+.design {
+    height: 10px;
+}
+
+.signbtn {
+    background-color: red;
+    color: white;
+    border-radius: 2px;
+    border-width: 0px;
+    height: 40px;
+
+}
+
+.text {
+    text-align: center;
+}
+
+.headstyle {
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.parastyle {
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.bg {
+    background-image: url("https://www.okynemedialab.com/wp-content/uploads/2019/11/netflix-background-50-Black-1080x608.jpg");
+    height: 100vh;
+    width: 100%;
+}
+
+.bg1 {
+    background-image: url("https://images7.alphacoders.com/115/1152299.jpg");
+    height: 80vh;
+    width: 100%;
+}
+
+.bg2 {
+    background-image: url("https://s.yimg.com/os/creatr-uploaded-images/2021-11/b4111380-3bff-11ec-b337-c90ed481b33e");
+    height: 100vh;
+    width: 100%;
+
+}
+
+.bg3 {
+    background-image: url("https://cdn.mos.cms.futurecdn.net/BgnEutpruZJNHZBad48kjZ-1200-80.jpg");
+    height: 80vh;
+    width: 100%;
+}
+
+.bgcolor {
+    background-color: black;
+    height: 100%;
+    width: 100%;
+}
+
+.contact {
+    text-decoration: underline;
+    font-family: italic;
+    font-size: 20px;
+    color: white;
+}
+
+.list {
+    color: blue;
+}
+
+.contactstyle {
+    padding: 10px;
+}
